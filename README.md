@@ -1,6 +1,7 @@
-![Header](<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=ARIAL+BLACK&weight=900&size=30&duration=3000&pause=1000&color=00F758&width=600&lines=Hi+there%2C+I'm+Alief+Badri+Tamam+%F0%9F%91%8B" alt="Typing SVG" /></a>) <!-- Anda bisa menambahkan header gambar di sini -->
-
-# Hi there, I'm Alief Badri Tamam 👋
+<div align="center">
+    <!-- Header Image with Typing SVG Animation -->
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=ARIAL+BLACK&weight=900&size=30&duration=3000&pause=1000&color=00F758&width=600&lines=Hi+there%2C+I'm+Alief+Badri+Tamam+%F0%9F%91%8B" alt="Typing SVG" /></a>
+</div>
 
 ### About Me:
 I am a passionate student and aspiring full-stack web developer, currently honing my skills in Information Technology. I'm motivated to continue improving my skills, enjoy discovering new things, and love sharing my journey with others. In my free time, I like coding, playing games, and listening to music.
