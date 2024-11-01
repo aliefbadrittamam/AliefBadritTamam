@@ -24,10 +24,9 @@ I am a passionate student and aspiring full-stack web developer, currently honin
 
 ---
 
-### "Girls Who Code Write the Future"
 > I believe in the power of technology to make a difference and strive to become part of that change.
-
 ### Leave a Note!
+
 Feel free to [leave me a note](https://github.com/AliefBadriTamam/AliefBadriTamam/issues) or connect with me through any of the links above. I'm always open to learning and collaborating!
 
 ---
