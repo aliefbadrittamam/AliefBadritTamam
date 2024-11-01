@@ -31,7 +31,7 @@ I am a passionate student and aspiring full-stack web developer, currently honin
 ---
 
 <img align="left" width="15%" height="15%" src="https://media.giphy.com/media/hiJ9ypGI5tIKdwKoK2/giphy.gif">
-<img align="left" width="15%" height="15%" src="https://dribbble.com/shots/14792345-A-Cat-Gif">
+<img align="left" width="15%" height="15%" src="https://cdn.dribbble.com/users/6620596/screenshots/14792345/media/af61fa935b055891cb800a9e41ebb747.gif">
 
 
 ## 📱 Apps I Use
