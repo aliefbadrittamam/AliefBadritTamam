@@ -32,7 +32,7 @@ I am a passionate student and aspiring full-stack web developer, currently honin
 
 <div align="center">
     <img align="left" width="15%" height="15%" src="https://media.giphy.com/media/hiJ9ypGI5tIKdwKoK2/giphy.gif">
-    <img align="right" width="15%" height="15%" src="https://tenor.com/id/view/oiia-oiiaoiia-oiia-oiia-cat-gif-13397875673260883779">
+    <img align="right" width="15%" height="15%" src="https://media1.tenor.com/m/ue7Q8JmP_0MAAAAC/oiia-oiiaoiia.gif">
 </div>
 
 <br><br><br><br> <!-- Spasi tambahan agar teks berikutnya tidak menempel pada GIF -->
