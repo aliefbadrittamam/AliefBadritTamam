@@ -30,9 +30,12 @@ I am a passionate student and aspiring full-stack web developer, currently honin
 
 ---
 
-<img align="left" width="15%" height="15%" src="https://media.giphy.com/media/hiJ9ypGI5tIKdwKoK2/giphy.gif">
+<div align="center">
+    <img align="left" width="15%" height="15%" src="https://media.giphy.com/media/hiJ9ypGI5tIKdwKoK2/giphy.gif">
+    <img align="right" width="15%" height="15%" src="https://cdn.dribbble.com/users/6620596/screenshots/14792345/media/af61fa935b055891cb800a9e41ebb747.gif">
+</div>
 
-
+<br><br><br><br> <!-- Spasi tambahan agar teks berikutnya tidak menempel pada GIF -->
 
 ## 📱 Apps I Use
 
@@ -43,7 +46,6 @@ I am a passionate student and aspiring full-stack web developer, currently honin
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-<img align="left" width="15%" height="15%" src="https://cdn.dribbble.com/users/6620596/screenshots/14792345/media/af61fa935b055891cb800a9e41ebb747.gif">
 
 <h3 align="center">You can leave me a note <a href="https://github.com/AliefBadriTamam/AliefBadriTamam/issues/new?template=guestbook-entry.md">here</a>!</h3>
 
