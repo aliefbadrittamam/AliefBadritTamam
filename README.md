@@ -50,5 +50,3 @@ I am a passionate student and aspiring full-stack web developer, currently honin
 <h3 align="center">You can leave me a note <a href="https://github.com/AliefBadriTamam/AliefBadriTamam/issues/new?template=guestbook-entry.md">here</a>!</h3>
 
 ---
-
-![Cute Cat](https://your-cat-image-url.com) <!-- Anda bisa mengganti URL gambar kucing -->
